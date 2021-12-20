@@ -1,0 +1,5 @@
+$ dig sertgosuslugi +nostats +nocomments +nocmd
+    > ;sertgosuslugi.                     IN      A
+    > sertgosuslugi.              3592    IN      CNAME   kalkshtein.github.io.
+    > kalkshtein.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
